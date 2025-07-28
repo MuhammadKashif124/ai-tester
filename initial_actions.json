@@ -1,0 +1,101 @@
+[
+    {
+      "go_to_url": {
+        "url": "https://www.daraz.pk/",
+        "new_tab": false
+      }
+    },
+    {
+      "wait": {
+        "seconds": 3
+      }
+    },
+    {
+      "input_text": {
+        "index": 8,
+        "text": "iPhone 14"
+      }
+    },
+    {
+      "wait": {
+        "seconds": 3
+      }
+    },
+    {
+      "click_element_by_index": {
+        "index": 9
+      }
+    },
+    {
+      "wait": {
+        "seconds": 3
+      }
+    },
+    {
+      "click_element_by_index": {
+        "index": 22
+      }
+    },
+    {
+      "wait": {
+        "seconds": 3
+      }
+    },
+    {
+      "click_element_by_index": {
+        "index": 48
+      }
+    },
+    {
+      "wait": {
+        "seconds": 3
+      }
+    },
+    {
+      "click_element_by_index": {
+        "index": 4
+      }
+    },
+    {
+      "click_element_by_index": {
+        "index": 15
+      }
+    },
+    {
+      "wait": {
+        "seconds": 3
+      }
+    },
+    {
+      "click_element_by_index": {
+        "index": 22
+      }
+    },
+    {
+      "wait": {
+        "seconds": 3
+      }
+    },
+    {
+      "click_element_by_index": {
+        "index": 99
+      }
+    },
+    {
+      "wait": {
+        "seconds": 3
+      }
+    },
+    {
+      "click_element_by_index": {
+        "index": 29
+      }
+    },
+    {
+      "done": {
+        "text": "I have successfully completed all the steps as requested.",
+        "success": true,
+        "files_to_display": []
+      }
+    }
+]
