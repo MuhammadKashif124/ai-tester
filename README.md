@@ -31,8 +31,8 @@ An automated browser testing tool powered by AI that records and replays web int
    ```
 
 3. Configure the browser-use library:
-   - Locate the service.py file in the browser_use package (browser_use-->agent-->service.py)
-   - Find the line with: `if orig_target_hash != new_target_hash:`
+   - Locate the service.py file in the browser_use package (.venv\Lib\site-packages\browser_use\agent\service.py)
+   - Search the line: `if orig_target_hash != new_target_hash:`
    - Comment out the `break` statement in this if block (around line 1412)
    - This modification ensures consistent element selection during replay
 
