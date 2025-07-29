@@ -15,7 +15,6 @@ async def record_actions():
     
     # Initialize the LLM
     llm = ChatGoogle(model='gemini-2.5-pro') # Or your preferred model
-    # C:\chrome-daraz-profile>start chrome --remote-debugging-port=9242 --user-data-dir="C:\chrome-daraz-profile"
     browser_session = BrowserSession(cdp_url="http://localhost:9242")
 
     task = f"""
