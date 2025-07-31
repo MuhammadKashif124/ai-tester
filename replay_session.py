@@ -15,8 +15,8 @@ async def record_actions():
     print("--- Starting Recording Phase (with LLM) ---")
     
     # Initialize the LLM
-    llm = ChatGoogle(model='gemini-2.5-pro') # Or your preferred model
-    browser_session = BrowserSession(cdp_url="http://localhost:9242")
+    llm = ChatGoogle(model='gemini-2.5-flash') # Or your preferred model
+    # browser_session = BrowserSession(cdp_url="http://localhost:9242")
 
     #read initial actions from the json file
     with open("initial_actions.json", "r") as file:
@@ -25,9 +25,9 @@ async def record_actions():
     agent = Agent(
         task="Do nothing as I have already replayed the actions using initial actions.",
         initial_actions=initial_actions,
-        browser_session=browser_session,
+        # browser_session=browser_session,
         llm=llm,
-        save_conversation_path="logs/darazfinalauto",
+        save_conversation_path="logs/proposal_manualf",
         
     )
 

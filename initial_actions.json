@@ -1,24 +1,25 @@
 [
     {
       "go_to_url": {
-        "url": "https://www.daraz.pk/",
+        "url": "https://elekipo.com/admin/authentication",
         "new_tab": false
       }
     },
     {
-      "wait": {
-        "seconds": 3
+      "input_text": {
+        "index": 5,
+        "text": "user.automation@gmail.com"
       }
     },
     {
       "input_text": {
-        "index": 8,
-        "text": "iPhone 14"
+        "index": 7,
+        "text": "2Sg$HwH3d0ag"
       }
     },
     {
       "wait": {
-        "seconds": 3
+        "seconds": 1
       }
     },
     {
@@ -27,68 +28,263 @@
       }
     },
     {
+      "click_element_by_index": {
+        "index": 1
+      }
+    },
+    {
+      "wait": {
+        "seconds": 5
+      }
+    },
+    {
+      "click_element_by_index": {
+        "index": 23
+      }
+    },
+    {
+      "click_element_by_index": {
+        "index": 20
+      }
+    },
+      {
+      "wait": {
+        "seconds": 5
+      }
+    },
+    {
+      "input_text": {
+        "index": 73,
+        "text": "Testing browser use 2"
+      }
+    },
+    {
+      "wait": {
+        "seconds": 2
+      }
+    },
+    {
+      "click_element_by_index": {
+        "index": 76
+      }
+    },
+    {
+      "wait": {
+        "seconds": 2
+      }
+    },
+    {
+      "input_text": {
+        "index": 80,
+        "text": "avialdo_u6oum6"
+      }
+    },
+    {
+      "wait": {
+        "seconds": 1
+      }
+    },
+    {
+      "click_element_by_index": {
+        "index": 82
+      }
+    },
+      {
+      "wait": {
+        "seconds": 1
+      }
+    },
+    {
+      "click_element_by_index": {
+        "index": 102
+      }
+    },
+    {
+      "wait": {
+        "seconds": 1
+      }
+    },
+    {
+      "click_element_by_index": {
+        "index": 109
+      }
+    },
+    {
+      "wait": {
+        "seconds": 1
+      }
+    },
+    {
+      "input_text": {
+        "index": 111,
+        "text": "test@gmail.com"
+      }
+    },
+    {
+      "wait": {
+        "seconds": 1
+      }
+    },
+    {
+      "input_text": {
+        "index": 113,
+        "text": "xyz"
+      }
+    },
+    {
+      "wait": {
+        "seconds": 1
+      }
+    },
+    {
+      "input_text": {
+        "index": 115,
+        "text": "zz"
+      }
+    },
+    {
+      "wait": {
+        "seconds": 1
+      }
+    },
+    {
+      "input_text": {
+        "index": 117,
+        "text": "zz"
+      }
+    },
+    {
+      "wait": {
+        "seconds": 1
+      }
+    },
+    {
+      "click_element_by_index": {
+        "index": 120
+      }
+    },
+    {
+      "wait": {
+        "seconds": 1
+      }
+    },
+    {
+      "input_text": {
+        "index": 124,
+        "text": "United States"
+      }
+    },
+    {
+      "wait": {
+        "seconds": 1
+      }
+    },
+    {
+      "click_element_by_index": {
+        "index": 127
+      }
+    },
+    {
+      "wait": {
+        "seconds": 1
+      }
+    },
+    {
+      "input_text": {
+        "index": 125,
+        "text": "12345"
+      }
+    },
+    {
+      "wait": {
+        "seconds": 1
+      }
+    },
+    {
+      "input_text": {
+        "index": 127,
+        "text": "xyz@gmail.com"
+      }
+    },
+    {
+      "wait": {
+        "seconds": 1
+      }
+    },
+    {
+      "input_text": {
+        "index": 129,
+        "text": "+923061111111"
+      }
+    },
+    {
+      "wait": {
+        "seconds": 1
+      }
+    },
+    {
+      "click_element_by_index": {
+        "index": 134
+      }
+    },
+    {
+      "wait": {
+        "seconds": 1
+      }
+    },
+    {
+      "click_element_by_index": {
+        "index": 141
+      }
+    },
+    {
+      "wait": {
+        "seconds": 1
+      }
+    },
+    {
+      "click_element_by_index": {
+        "index": 157
+      }
+    },
+    {
+      "wait": {
+        "seconds": 1
+      }
+    },
+    {
+      "click_element_by_index": {
+        "index": 147
+      }
+    },
+    {
+      "wait": {
+        "seconds": 1
+      }
+    },
+    {
+      "click_element_by_index": {
+        "index": 154
+      }
+    },
+    {
+      "wait": {
+        "seconds": 1
+      }
+    },
+    {
+      "click_element_by_index": {
+        "index": 116
+      }
+    },
+    {
       "wait": {
         "seconds": 3
       }
     },
     {
       "click_element_by_index": {
-        "index": 22
-      }
-    },
-    {
-      "wait": {
-        "seconds": 3
-      }
-    },
-    {
-      "click_element_by_index": {
-        "index": 48
-      }
-    },
-    {
-      "wait": {
-        "seconds": 3
-      }
-    },
-    {
-      "click_element_by_index": {
-        "index": 4
-      }
-    },
-    {
-      "click_element_by_index": {
-        "index": 15
-      }
-    },
-    {
-      "wait": {
-        "seconds": 3
-      }
-    },
-    {
-      "click_element_by_index": {
-        "index": 22
-      }
-    },
-    {
-      "wait": {
-        "seconds": 3
-      }
-    },
-    {
-      "click_element_by_index": {
-        "index": 99
-      }
-    },
-    {
-      "wait": {
-        "seconds": 3
-      }
-    },
-    {
-      "click_element_by_index": {
-        "index": 29
+        "index": 126
       }
     },
     {
